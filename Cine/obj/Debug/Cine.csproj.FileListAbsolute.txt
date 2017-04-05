@@ -1,0 +1,6 @@
+c:\users\sir ignacio\documents\visual studio 2017\Projects\Cine\Cine\bin\Debug\Cine.exe.config
+c:\users\sir ignacio\documents\visual studio 2017\Projects\Cine\Cine\bin\Debug\Cine.exe
+c:\users\sir ignacio\documents\visual studio 2017\Projects\Cine\Cine\bin\Debug\Cine.pdb
+c:\users\sir ignacio\documents\visual studio 2017\Projects\Cine\Cine\obj\Debug\Cine.exe
+c:\users\sir ignacio\documents\visual studio 2017\Projects\Cine\Cine\obj\Debug\Cine.pdb
+c:\users\sir ignacio\documents\visual studio 2017\Projects\Cine\Cine\obj\Debug\Cine.csprojResolveAssemblyReference.cache
