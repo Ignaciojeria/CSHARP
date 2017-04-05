@@ -1,0 +1,15 @@
+﻿Cine T-Streno
+=============
+
+El cine cuenta con 16 salas donde exhibe películas. Para cada película se registra el título, la duración y el género (terror, drama, ciencia ficción, etc).
+
+Debe implementar un sistema que mediante una interfaz de menú permita:
+
+** Registrar una película
+   -- No se permite que una misma película se proyecte en más de una sala
+   -- La duración debe estar entre 70 y 240 minutos
+   -- Se exhibe en la primera sala disponible
+** Mostrar las películas en exhibición
+   -- Debe mostrar el número de sala (comienza en 1) y los datos de la película
+** Retirar una película
+   -- Por su título o por el número de sala
